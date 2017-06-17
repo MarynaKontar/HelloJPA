@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.persistence.jpa-2.6.5-RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/org.eclipse.persistence.jpa-2.6.5-RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
