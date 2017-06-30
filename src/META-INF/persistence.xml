@@ -17,7 +17,7 @@
     </persistence-unit>
 
 
-    <persistence-unit name="unit2" transaction-type="RESOURCE_LOCAL">
+    <!--<persistence-unit name="unit2" transaction-type="RESOURCE_LOCAL">
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
         <class>com.Person</class>
         <properties>
@@ -27,7 +27,7 @@
             <property name="javax.persistence.jdbc.password" value="111111"/>
             <property name="javax.persistence.schema-generation.database.action" value="drop-and-create"/>
         </properties>
-    </persistence-unit>
+    </persistence-unit>-->
 
 
 </persistence>

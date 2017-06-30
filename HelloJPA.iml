@@ -21,7 +21,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="JPA 2.0-2.0" level="project" />
-    <orderEntry type="library" name="mysql-connector-java-5.1" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-6.0.6" level="project" />
     <orderEntry type="library" name="org.eclipse.persistence.jpa-2.6.5-RC2" level="project" />
     <orderEntry type="library" name="hibernate-core-5.2.10.Final" level="project" />
     <orderEntry type="library" name="org.hibernate:hibernate-entitymanager:3.2.0.cr2" level="project" />
